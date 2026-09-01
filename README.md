@@ -26,6 +26,8 @@ The system also generates **saliency maps** to provide visual explanations of wh
 
 > **Note:** This tool is intended to support — not replace — clinical judgment. All data handling complies with GDPR and EU AI Act guidelines.
 
+This project was created in collaboration with [AndreaBaraldi99](https://github.com/AndreaBaraldi99)
+
 ---
 
 ## 🏗️ Architecture
