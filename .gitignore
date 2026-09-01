@@ -1,0 +1,4 @@
+/.venv
+/Backend/T4R-Studies
+Backend/Databases/*.db
+Backend/Models/*.keras
